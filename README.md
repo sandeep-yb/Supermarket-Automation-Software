@@ -1,16 +1,10 @@
 # SuperMarket Automation Software
 
-<p>
-<p align="center">
-  <img src="/sales.png" />
-</p>
-<p align="center">
-  <img src="/view_products.png"/>
-</p>
-<p align="center">
-  <img src="/order_history.png"/>
-</p>
-</p>
+Application link : https://fast-thicket-91570.herokuapp.com/
+
+![Sales statistics](public/sales.png)
+![Sales statistics](public/view_products.png)
+![Sales statistics](public/order_history.png)
 
 ## Introduction
 
