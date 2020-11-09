@@ -167,7 +167,7 @@ class Inventory extends Component {
             )
         }
 
-        const sortKeys = (a, b) => { return a.id - b.id }
+        const sortKeys = (a, b) => { return b.id - a.id }
 
         const products = this.props.products.sort(sortKeys).map((product, index) => {
             return <tr key={product.id}>
