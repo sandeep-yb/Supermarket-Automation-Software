@@ -1,17 +1,20 @@
 # SuperMarket Automation Software
 
+<p>
 <p align="center">
-  <img src="http://mttbrwn.com/wp-content/uploads/2018/01/inv-inventory.png" />
+  <img src="/sales.png" />
 </p>
 <p align="center">
-  <img src="http://mttbrwn.com/wp-content/uploads/2018/01/inv-cart.png"/>
+  <img src="/view_products.png"/>
 </p>
-
+<p align="center">
+  <img src="/order_history.png"/>
+</p>
 </p>
 
 ## Introduction
 
-This application is prepared as part of Software Engineering Lab for 7th semester.  
+This application is prepared as part of Software Engineering Lab for 7th semester.
 
 #### Features
 
@@ -21,11 +24,10 @@ This application is prepared as part of Software Engineering Lab for 7th semeste
 
 ## Installation Instructions
 
-1. Clone this repo. ``
-2. `cd `
+1. Clone this repo. `https://github.com/sandeepism/Supermarket-Automation-Software.git`
+2. `cd Supermarket-Automation-Software`
 3. `npm install`
 4. `npm start`
-
 
 ## Prerequisites
 
@@ -36,5 +38,3 @@ This application is prepared as part of Software Engineering Lab for 7th semeste
 - [React](https://reactjs.org/)
 - [React Boostrap](https://react-bootstrap.github.io/)
 - [Redux](https://redux.js.org/)
-
-
